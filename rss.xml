@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[campomarfutbol5]]></title>
+        <description><![CDATA[campomarfutbol5]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 19:05:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bff79fa-533d-4e54-af9e-099ae0ef41df.jpg">]]></description>
+            <link>undefinedcampomar-futbol5/index.html</link>
+            <guid isPermaLink="false">164214ed-d909-46bc-ad16-d229c494a69d</guid>
+            <pubDate>Sat, 07 May 2016 19:05:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
